@@ -1,4 +1,4 @@
-- IAM User : 1 username + 1 password
+a- IAM User : 1 username + 1 password
 - IAM User : 2 access key :
 	- created/deleted, inactive/active
 	- 2 parts : 
