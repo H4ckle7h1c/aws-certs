@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "services/core/iam/aws-control-tower.md",
+                "file": "services/core/storage/s3-storage-classes.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "aws-control-tower"
+              "title": "s3-storage-classes"
             }
           }
         ],
@@ -196,12 +196,24 @@
   },
   "active": "4274c69fd0769a04",
   "lastOpenFiles": [
-    "Pasted image 20250612094045.png",
+    "services/core/storage/s3-bucket-keys.md",
+    "services/core/storage/s3-storage-classes.md",
+    "services/core/storage/s3-server-side-encryption.md",
+    "Pasted image 20250628152114.png",
+    "Glossary.md",
+    "services/core/security/key-management-service.md",
+    "Note template.md",
+    "services/core/storage/s3-performance.md",
+    "services/core/storage/s3-object-versioning-and-mfa.md",
+    "00_Learning Plan.md",
+    "Pasted image 20250623213217.png",
     "services/core/monitoring/CloudTrail.md",
+    "services/core/storage/s3-static-hosting.md",
+    "services/core/storage/s3-security.md",
     "services/core/iam/aws-control-tower.md",
+    "Pasted image 20250612094045.png",
     "services/core/monitoring/CloudWatch Logs.md",
     "services/core/monitoring/CloudWatch.md",
-    "00_Learning Plan.md",
     "Untitled.md",
     "exams",
     "templates",
@@ -215,21 +227,12 @@
     "services/core/iam/service-control-policies.md",
     "services/core/iam/users.md",
     "services/core/iam/roles.md",
-    "Note template.md",
     "ressources.md",
     "certs",
     "services/core/iam",
     "Account creation.md",
-    "certs/01_SAA-C03/AWS Organizations.md",
-    "Welcome.md",
-    "soa.md",
-    "dva.md",
-    "saa.md",
     "services/core",
-    "services/core/storage/S3.md",
     "services/core/iam",
-    "services/core/networking/Route53.md",
-    "services/core/compute/EC2.md",
     "services/core/storage",
     "services/core/security"
   ]

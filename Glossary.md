@@ -39,7 +39,7 @@
 - Identity : Represents Humans or Applications that need to access the account
 
 ## K
-- [[KMS]] – Key Management Service
+- [[key-management-service]] – Key Management Service
 - [[Kinesis]]
 
 ## L

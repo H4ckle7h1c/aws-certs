@@ -1,0 +1,21 @@
+- Default - S3 Standard: 
+	- Stored accross at least 3 AZ
+	- 11 9 of durability
+	- Replication over 3 AZ's & Content-MD5 Checksums and CRCs
+	- Biling :
+		- GB/m 
+		- $ per GB for transfert out 
+		- prices per 1000 requests 
+		- No specific retrieval fee
+	- Used for frequently accessed data
+	- First byte latency
+- S3 Stardard IA (infrequent access): 
+	- Same specificities of the S3 standard
+	- ~Half the price of S3 standard
+	- Retrieval Fee -> per GB data retrieved 
+	- Minimum duration charge of 30 days
+	- Minimum capacity of 128KB
+	- KEEP: Long-lived data & infrequent access
+- S3 One Zone-IA
+	- Same as Standard IA 
+	- Data is only store on 1 AZ, no replication
