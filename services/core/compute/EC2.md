@@ -1,47 +1,30 @@
-
 ### Purpose  
-Briefly describe why this service exists and what problems it solves.
 
 ---
-
 ### What is it?  
-A concise description of the service.
+
+EC2 instances are virtual machines (OS+Ressources) that run on EC2 hosts.
 
 ---
-
-### Access  
-- CLI  
-- Console (GUI)  
-- SDK / API  
-
----
-
 ### Core Concepts  
-- **Concept 1**: Description  
-- **Concept 2**: Description  
-- **Concept 3**: Description  
-
-*(Add more as needed)*
+- **Shared Hosts:** Host is shared between multiple customers
+- **Dedicated Host**: Cost is allocated to the host and not the instance
+- **Hosts = 1AZ** : AZ resilient
+- Everything is linked to AZ : Storage, network, volumes, ...
 
 ---
 
 ### Key Features  
-- Feature 1  
-- Feature 2  
-- Feature 3  
+- Stores 
+	- [[Instance Store]] : store linked to the host
+	- Network store: [[EBS]] 
 
 ---
+### When to chose EC2 ? 
+- Traditional OS + compute 
+- Long Running compute 
+- Server Style Applications
+- Burst or steady-state load
+- Monolithic application stack
+- Migrated application workload or disaster recovery 
 
-### Important Terms  
-| Term         | Definition or Explanation                | Notes / Links            |
-|--------------|------------------------------------------|--------------------------|
-| [[Namespace]] | Container for monitoring data             | Related to CloudWatch    |
-| [[Metric]]    | Time-series data points                    |                          |
-| [[Dimension]] | Key-value pairs to filter metrics          |                          |
-
----
-
-### Usage Examples / Commands  
-```bash
-# Example CLI command or usage
-aws cloudwatch get-metric-statistics --metric-name CPUUtilization --namespace AWS/EC2 ...

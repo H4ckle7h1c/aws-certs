@@ -1,7 +1,6 @@
 ### AWS KMS – Key Concepts & Core Principles
 
 #### General Characteristics
-
 - KMS is a **regional and public** AWS service.
 - Keys **never leave the region** in which they are created.
 - Compliant with **FIPS 140-2 Level 2**.
@@ -11,7 +10,6 @@
 ---
 
 ### Core Concepts
-
 - **KMS Key (Customer Master Key / CMK)**: A logical container for key material.
     - Contains **metadata** (ID, ARN, key policy, tags).
     - Backed by **physical key material**.
@@ -21,7 +19,6 @@
 ---
 
 ### GenerateDataKey API
-
 - Used for encrypting **data larger than 4 KB** (envelope encryption).
 - Returns two versions:
     - **Plaintext key**
@@ -34,7 +31,6 @@
 ---
 
 ### Key Types and Ownership Models
-
 - **Customer Managed Keys**
     - Created and managed by the customer.
     - Full control over rotation, policies, tags, and aliases.
@@ -49,9 +45,7 @@
     - Operate entirely in the background.
 
 ---
-
 ### Regional Behavior
-
 - KMS keys are **isolated per region**.
 - Keys do not leave their region under any circumstance.
 - **Multi-region keys** can be explicitly created if cross-region encryption support is needed.    

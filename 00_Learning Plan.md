@@ -12,7 +12,7 @@
 - Week 24 :
 	-  Virtual Private Cloud Basics ([[VPC]])
 - Week 25 : 
-	- Elastic Compute Cloud ([[EC2]])
+	- Elastic Compute Cloud ([[ec2]])
 	- Containers & ECS 
 	- Advanced EC2
 	- Route 53 - Global DNS

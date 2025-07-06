@@ -21,7 +21,7 @@
 - [[Direct Connect]]
 
 ## E
-- [[EC2]] – Elastic Compute Cloud
+- [[ec2]] – Elastic Compute Cloud
 - [[EBS]] – Elastic Block Store
 - [[EFS]] – Elastic File System
 - [[ELB]] – Elastic Load Balancing

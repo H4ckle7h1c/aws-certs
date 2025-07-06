@@ -8,35 +8,20 @@
         "type": "tabs",
         "children": [
           {
-            "id": "a0103d6aafc6a58f",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "services/core/iam/00-topics.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "00-topics"
-            }
-          },
-          {
             "id": "4274c69fd0769a04",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "services/core/storage/s3-storage-classes.md",
+                "file": "services/core/storage/ebs-hard-disk-drive.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "s3-storage-classes"
+              "title": "ebs-hard-disk-drive"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -93,7 +78,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 306.5024719238281
   },
   "right": {
     "id": "0679c7796c855a9d",
@@ -196,44 +181,50 @@
   },
   "active": "4274c69fd0769a04",
   "lastOpenFiles": [
+    "services/core/storage/ebs-provisioned-iops-ssd.md",
+    "services/core/storage/ebs-hard-disk-drive.md",
+    "services/core/storage/ebs-storage-types.md",
+    "services/core/storage/ebs-elastic-block-store.md",
+    "services/core/security/key-management-service.md",
+    "services/core/compute/ec2.md",
+    "services/core/networking/Route53.md",
+    "services/core/compute/ec2-instance-types.md",
+    "services/core/iam/access-keys.md",
+    "services/core/iam/00-topics.md",
+    "certs/01_SAA-C03/ASSOCIATESHARED Storage Refresher.md",
+    "Pasted image 20250702092536.png",
     "services/core/storage/s3-bucket-keys.md",
+    "Pasted image 20250630092444.png",
+    "certs/01_SAA-C03/Elastic Compute Cloud (EC2) Basics/Virtualization 101.md",
+    "certs/01_SAA-C03/Elastic Compute Cloud (EC2).md",
+    "certs/01_SAA-C03/Elastic Compute Cloud (EC2) Basics",
+    "services/core/storage/s3-access-point.md",
+    "services/core/storage/s3-object-lock.md",
+    "services/core/storage/s3-replication.md",
+    "services/core/storage/s3-lifecycle-configuration.md",
+    "Pasted image 20250628164733.png",
+    "Pasted image 20250628164714.png",
+    "Pasted image 20250628164527.png",
     "services/core/storage/s3-storage-classes.md",
+    "Pasted image 20250628161101.png",
     "services/core/storage/s3-server-side-encryption.md",
     "Pasted image 20250628152114.png",
     "Glossary.md",
-    "services/core/security/key-management-service.md",
     "Note template.md",
     "services/core/storage/s3-performance.md",
     "services/core/storage/s3-object-versioning-and-mfa.md",
     "00_Learning Plan.md",
     "Pasted image 20250623213217.png",
     "services/core/monitoring/CloudTrail.md",
-    "services/core/storage/s3-static-hosting.md",
-    "services/core/storage/s3-security.md",
-    "services/core/iam/aws-control-tower.md",
     "Pasted image 20250612094045.png",
-    "services/core/monitoring/CloudWatch Logs.md",
-    "services/core/monitoring/CloudWatch.md",
-    "Untitled.md",
     "exams",
     "templates",
     "services",
-    "services/core/iam/00-topics.md",
-    "services/core/iam/access-keys.md",
-    "services/core/iam/basics.md",
-    "services/core/iam/groups.md",
     "services/core/logging",
-    "services/core/iam/identity-policies.md",
-    "services/core/iam/service-control-policies.md",
-    "services/core/iam/users.md",
-    "services/core/iam/roles.md",
-    "ressources.md",
     "certs",
     "services/core/iam",
-    "Account creation.md",
     "services/core",
     "services/core/iam",
-    "services/core/storage",
-    "services/core/security"
+    "services/core/storage"
   ]
 }

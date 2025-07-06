@@ -1,0 +1,7 @@
+- Provide block storage, raw disk allocations (volume) that can be encrypted using KMS
+- Instances see block devices and create file system 
+- Storage is provisioned in an AZ (AZ resilient)
+- Attached to an EC2 instance over a network storage 
+- Can be detached and reattached, not lifecycle linked to an instance
+- Snapshots (backups in S3) -> create volume from snapchot (AZ migrations)
+- Bill is GB-month
