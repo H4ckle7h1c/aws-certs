@@ -1,0 +1,7 @@
+- Accounts can be set to encrypt ebs by default using a default kms key
+- Each volume use a unique DEK (data encryption key)
+	- Snapshosts & future volumes are using the same DEK as the initial volume
+- Can't change an encrypted volume to non encrypted
+- OS is not aware of encryption (no performance loss)
+- EBS -> using aes256
+- No cost 

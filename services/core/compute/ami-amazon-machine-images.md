@@ -1,0 +1,30 @@
+- AMI can be used to launch EC2 instances
+- 2 types of AMI :
+	- AWS
+	- Community : redhat, centos, ubuntu,...
+- Market place (can include commercial software, instance cost + license)
+- Regional with unique ID, eg: ami-joqegjon0231mo
+- Control permission : 
+	- Public
+	- Your account
+	- Specific accounts
+- AMI is a container that reference snapshots 
+- AMI Lifecycle :
+	- 1. Launch :
+		- Create instances from AMI 
+	- 2. Configure :
+		- Takes instance + volumes and custom configuration 
+	- 3. Create image :
+		- Take instance + volumes attached to instance => create AMI 
+		- EBS snapshot from the instance are created and attached to the AMI 
+	- 4. Launch :
+		- EBS snapshots are used to create new EBS in the target AZ
+		- AMI are "regionals constructs"
+	
+	![[Pasted image 20250721093027.png]]
+- Exam power ups : 
+	- AMI = One region 
+	- AMI baking : taking conf + software and creating an AMI from it 
+	- AMI can't be edited => launch an instance, modify conf and make new AMI
+	- Can be copied between regions
+	- Default = your account

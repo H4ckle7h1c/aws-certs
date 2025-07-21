@@ -26,6 +26,7 @@
 - [[EFS]] – Elastic File System
 - [[ELB]] – Elastic Load Balancing
 - [[Elastic Beanstalk]]
+- [[ENI]] - Elastic Network Interface
 
 ### F
 - FT : [[Fault Tolerance (FT)]]

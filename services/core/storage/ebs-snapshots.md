@@ -1,0 +1,10 @@
+- Snapshots are incremental volume copies on S3 
+- First snapshot is the full copy 
+- Future snapshots are incremental
+- Volumes can be created (restores) from snapshots 
+- Snapshot can be copied to another region
+- New EBS volume = full perf immediatly
+- Snaps restore lazily 
+- Fast Snapshot Restore (FSR) - immediate restore
+- up to 50 snapshots per region
+- Billing = GB/month

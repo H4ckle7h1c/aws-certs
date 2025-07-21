@@ -1,2 +1,12 @@
-st1 : thoughput optimized
-sc1 : cold hdd
+- st1 : thoughput optimized
+	- 125GB to 16TB 
+	- Max 500 iops (1MB)
+	- Max 500MBps
+	- 40MB/s/TB base
+	- 250MB/s/TB burst
+	- Frequent access throughput intensive sequential
+- sc1 : cold hdd
+	- 250 IOPS (1MB)
+	- Max 250 MBps 
+	- 12MB/s/TB base
+	- 80MB/s/TB burst
