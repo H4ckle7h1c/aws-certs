@@ -6,7 +6,6 @@
 - Policy : Allow or Deny access to aws service for the above 
 
 ### Responsabilities
-
 - Manage identities
 - Authenticate identities (Identity provider) : Prove who you are to be 
 - Authorize : Allow/Deny access to ressources 

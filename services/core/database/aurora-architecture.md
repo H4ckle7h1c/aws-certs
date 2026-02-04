@@ -1,0 +1,26 @@
+- Aurora work as a 'cluster'
+- Single **primary** instance + **0** or more **replicas**
+	- Can be used for read operations as well
+	- Can be used for availability
+- No local storage -> uses a cluster volume
+- By default the primary is the only one capable of write
+![[Pasted image 20260115110540.png]]
+- All SSD based - high IOPS -> low latency
+- Storage is billed based on what's consumed 
+- High water mark - billed for the most used in the cluster (not applicable for recent aws)
+- Replicas can be added and removed without requiring storage provisionning 
+- Endpoints :
+	- Cluster endpoint -> primary
+	- Reader Endpoint -> load balanced on multiple readers 
+- Cost :
+	- No free tier (bc no micro instance)
+	- Beyond RDS single AZ aurora offers better value
+	- Storage - GB/month consummed, IO cost per request
+	- Backups costs are included
+- Backup/Restore
+	- Same ways as RDS
+	- Restores create a new cluster
+	- Backtrack -> rollback the DB to a previous point in time
+	- Fast clone = new db much faster than copying all the data 
+		- No 1to1 copy of data, just create apoint 
+		- Only store the change between source and clone data

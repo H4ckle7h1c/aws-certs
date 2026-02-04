@@ -15,6 +15,6 @@ Cantrill training :
 	- Root account : 
 		- [x] MFA
 	- Admin account : 
-		- [ ] Create account
-		- [ ] MFA
+		- [x] Create account
+		- [x] MFA
 

@@ -1,28 +1,28 @@
 - Week 18 :
-	- Course Fundamentals and AWS Accounts
+	- ~~Course Fundamentals and AWS Accounts~~
 - Week 19 : OFF
 - Week 20 : OFF
 - Week 21 : Reprise :
-	- AWS Fundamentals
+	- ~~AWS Fundamentals~~
 - Week 22 :
-	- IAM, Accounts and organisations
+	- I~~AM, Accounts and organisations~~ 
 - Week 23 :
-	- IAM, Accounts and organisations ([[IAM]])
-	- Simple Storage Service ([[S3]])
+	- ~~IAM, Accounts and organisations~~ ([[IAM]])
+	- ~~Simple Storage Service~~ ([[S3]])
 - Week 24 :
-	-  Virtual Private Cloud Basics ([[VPC]])
+	-  ~~Virtual Private Cloud Basics~~ ([[VPC]])
 - Week 25 : 
-	- Elastic Compute Cloud ([[ec2]])
-	- Containers & ECS 
-	- Advanced EC2
+	- ~~Elastic Compute Cloud~~ ([[ec2]])
+	- ~~Containers & ECS~~ 
+	- ~~Advanced EC2~~
 	- Route 53 - Global DNS
-	- Relational Database Service (RDS)
+	- ~~Relational Database Service (RDS)~~
 	- Network Storage & Data Lifecycle
 	- HA & Scaling
 - Week 26 :
-	- Serverless and Application Services 
-	- Global Content Delivery & Optimization
-	- Advanced VPC Networking
+	- ~~Serverless and Application Services~~ 
+	- ~~Global Content Delivery & Optimization~~
+	- ~~Advanced VPC Networking~~
 - Week 27 :
 	- Hybrid Environments And Migration
 	- Security, Deployment & Operations
@@ -36,4 +36,3 @@
 - Week 30 : 
 	- Associate Sys Adming
 - Week 31 : Associate Developper
--

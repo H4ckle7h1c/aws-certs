@@ -1,4 +1,3 @@
-
 ### Instance categories 
 - General Purpose - Default : Diverse workload, equal ressource ratio
 - Compute Optimized : Media Processing, HPC, ML, ...

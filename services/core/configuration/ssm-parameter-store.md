@@ -1,0 +1,10 @@
+- SSM is a public service 
+- Storage for configuration & secrets 
+- 3 types of parameters :
+	- string
+	- string list
+	- secure string
+- Licence code, databases strings, full config & passwords
+- Hierarchies and versionning
+- Plaintext & ciphertext (kms)
+- Public parameters (Latest AMIs per region)

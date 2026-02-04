@@ -44,18 +44,18 @@
 - [[Kinesis]]
 
 ## L
-- [[Lambda]]
+- [[sns]]
 - [[Lightsail]]
 
 ## R
-- [[RDS]] – Relational Database Service
+- [[rds-architecture]] – Relational Database Service
 - [[Route 53]]
 - [[Regions]]
 
 ## S
 - [[S3]] – Simple Storage Service
 - [[SQS]] – Simple Queue Service
-- [[SNS]] – Simple Notification Service
+- [[lambda]] – Simple Notification Service
 - [[Step Functions]]
 - [[SSM]] – Systems Manager
 - [[Secrets Manager]]

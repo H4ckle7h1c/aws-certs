@@ -1,6 +1,6 @@
 SCP Are inherited 
 
-Attached to an ord -> will drop down to all under thing bellow it 
+Attached to an org -> will drop down to all under thing bellow it 
 OU -> All accounts inside
 Account -> everything inside 
 
