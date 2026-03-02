@@ -8,7 +8,7 @@
 - [[Availability Zone]]
 
 ## C
-- [[CloudFormation]]
+- [[cloudformation]]
 - [[CloudFront]]
 - [[CloudTrail]]
 - [[CloudWatch]]

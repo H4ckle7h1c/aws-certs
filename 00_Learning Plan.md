@@ -15,17 +15,17 @@
 	- ~~Elastic Compute Cloud~~ ([[ec2]])
 	- ~~Containers & ECS~~ 
 	- ~~Advanced EC2~~
-	- Route 53 - Global DNS
+	- ~~Route 53 - Global DNS (10/02/2026)~~
 	- ~~Relational Database Service (RDS)~~
-	- Network Storage & Data Lifecycle
-	- HA & Scaling
+	- ~~Network Storage & Data Lifecycle~~ (09/02/2026)
+	- ~~HA & Scaling (11/02/2026)~~
 - Week 26 :
 	- ~~Serverless and Application Services~~ 
 	- ~~Global Content Delivery & Optimization~~
 	- ~~Advanced VPC Networking~~
 - Week 27 :
-	- Hybrid Environments And Migration
-	- Security, Deployment & Operations
+	- Hybrid Environments And Migration (12/02/2026)
+	- Security, Deployment & Operations (12/02/2026)
 - Week 28 : 
 	- Infrastucture as Code (CloudFormation)
 	- NOSQL Databases & DynamoDB

@@ -13,26 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "services/core/networking/enhanced-networking.md",
+                "file": "services/core/iac/cloudformation.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "enhanced-networking"
-            }
-          },
-          {
-            "id": "a82e0ece0d5beecd",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "services/core/serverless/kinesis.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "kinesis"
+              "title": "cloudformation"
             }
           },
           {
@@ -47,8 +33,7 @@
               "title": "Pasted image 20260128102228"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -207,53 +192,53 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "a82e0ece0d5beecd",
+  "active": "4274c69fd0769a04",
   "lastOpenFiles": [
-    "Pasted image 20260204102733.png",
-    "00_Learning Plan.md",
-    "services/core/serverless/kinesis.md",
-    "services/core/cdn/cloudfront-security.md",
-    "services/core/cdn/cloudfront-private-distributions.md",
-    "services/core/cdn/cloudfront-origin.md",
-    "services/core/global-accelerator.md",
-    "Pasted image 20260204101437.png",
-    "General Knowledge/Databases.md",
-    "services/core/cdn/cloudfront-lambda@edge.md",
-    "Pasted image 20260204100558.png",
-    "Pasted image 20260204100454.png",
-    "Pasted image 20260202144945.png",
-    "Pasted image 20260202144130.png",
-    "Pasted image 20260202143855.png",
-    "Pasted image 20260202143809.png",
-    "Pasted image 20260202143604.png",
-    "Pasted image 20260202140326.png",
-    "services/core/cdn/cloudfront-ssl.md",
-    "Pasted image 20260202104307.png",
+    "Pasted image 20260302143659.png",
+    "Pasted image 20260302143655.png",
+    "Pasted image 20260302143651.png",
+    "Pasted image 20260302143156.png",
+    "Pasted image 20260302143124.png",
+    "Pasted image 20260302143005.png",
+    "Pasted image 20260302142455.png",
+    "Pasted image 20260302141931.png",
+    "Pasted image 20260302141732.png",
+    "Pasted image 20260302141117.png",
+    "services/core/iac",
     "services/core/security/aws-certificate-manager.md",
-    "services/core/cdn/cloudfront-ttl.md",
-    "services/core/cdn/cloudfront-behaviors.md",
-    "services/core/cdn/cloudfront-architecture.md",
+    "services/core/iac/cloudformation.md",
+    "services/core/security/aws-waf.md",
+    "Pasted image 20260218142006.png",
+    "services/core/security/l7-firewalls.md",
+    "services/core/security/aws-secret-manager.md",
+    "services/hybrid-env/site-to-site-vpns.md",
+    "00_Learning Plan.md",
+    "services/hybrid-env",
+    "services/core/ha/gwlb.md",
+    "services/core/ha/ssl-offload&session-stickiness.md",
+    "services/core/ha/asg-healthchecks.md",
+    "services/core/ha/asg-lifecycle.md",
+    "services/core/ha/asg-scaling-policies.md",
+    "services/core/ha/asg.md",
+    "services/core/compute/ec-lc-&-lt.md",
+    "services/core/ha/elb-alb-vs-nlb.md",
+    "services/core/ha/elb-architecture.md",
+    "services/core/ha/elb-evolution.md",
+    "services/core/ha/regional-global-architecture.md",
+    "services/core/ha",
+    "services/core/dns/route-53-hosted-zone.md",
+    "services/core/dns/r53-weigthed-routing.md",
+    "services/core/dns/r53-simple-routing.md",
+    "services/core/dns/r53-failover-routing.md",
+    "services/core/dns/r53-dnssec.md",
+    "services/core/dns/r53-interoperability.md",
+    "services/core/dns/r53-geoproximity-routing.md",
+    "services/core/dns",
     "services/core/cdn",
-    "services/core/content-delivery.md",
-    "services/core/serverless/sqs-dlq.md",
-    "services/core/serverless/sqs-delay-queues.md",
-    "services/core/serverless/sqs.md",
-    "services/core/serverless/architecture.md",
-    "services/core/serverless/api-gateway.md",
-    "services/core/serverless/sns.md",
-    "services/core/serverless/lambda.md",
-    "services/core/serverless/event-bridge.md",
-    "services/core/networking/vpc.md",
     "services/core/serverless",
-    "services/core/networking/enhanced-networking.md",
-    "services/core/database/dms-database-migration-service.md",
     "services/core/database",
     "General Knowledge",
     "services/core/configuration",
-    "certs/01_SAA-C03/Elastic Compute Cloud (EC2) Basics",
-    "exams",
-    "templates",
-    "services",
-    "services/core/logging"
+    "certs/01_SAA-C03/Elastic Compute Cloud (EC2) Basics"
   ]
 }
