@@ -1,0 +1,11 @@
+- Amazon comprehend :Amazon Comprehend is a natural-language processing (NLP) service that uses machine learning to uncover valuable insights and connections in text.
+- Kendra : indexing and searching in data
+- Lex : chatbots integrated with lambda 
+- Polly: convert text into life-like speech 
+- Rekognition: Video analysis, can be connected to kinesis for face recognition
+- Textract: Detect and analyze text contained in input docs, (which can be jpeg,png,pdf,...). Small doc = synchronous, big=async
+- Transcribe=ASR (automatic text recognition), STT input = voice, output=text, pay per use,  minute per s transcribe 
+- Translate= Amazon Translate is a neural machine translation service that delivers fast, high-quality, affordable, and customizable language translation.
+- Forecast: Amazon Forecast is a fully managed service that uses statistical and machine learning algorithms to deliver highly accurate time-series forecasts.
+- Fraud detector: Amazon Fraud Detector is a fully managed fraud detection service that automates the detection of potentially fraudulent activities online. These activities include unauthorized transactions and the creation of fake accounts. Amazon Fraud Detector works by using machine learning to analyze your data.
+- Sage Maker

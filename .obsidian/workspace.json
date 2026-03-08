@@ -13,24 +13,24 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "services/core/iac/cloudformation.md",
+                "file": "services/machine-learning-101.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "cloudformation"
+              "title": "machine-learning-101"
             }
           },
           {
-            "id": "3a6e3f86ca023ffa",
+            "id": "dbaaf82f93794fcb",
             "type": "leaf",
             "state": {
-              "type": "image",
+              "type": "release-notes",
               "state": {
-                "file": "Pasted image 20260128102228.png"
+                "currentVersion": "1.12.4"
               },
-              "icon": "lucide-image",
-              "title": "Pasted image 20260128102228"
+              "icon": "lucide-book-up",
+              "title": "Release Notes 1.12.4"
             }
           }
         ]
@@ -65,7 +65,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "direct ",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -194,51 +194,51 @@
   },
   "active": "4274c69fd0769a04",
   "lastOpenFiles": [
-    "Pasted image 20260302143659.png",
-    "Pasted image 20260302143655.png",
-    "Pasted image 20260302143651.png",
-    "Pasted image 20260302143156.png",
-    "Pasted image 20260302143124.png",
-    "Pasted image 20260302143005.png",
-    "Pasted image 20260302142455.png",
-    "Pasted image 20260302141931.png",
-    "Pasted image 20260302141732.png",
-    "Pasted image 20260302141117.png",
+    "services/core/networking/direct-connect-dx.md",
+    "services/machine-learning-101.md",
+    "Pasted image 20260305132043.png",
+    "Pasted image 20260305132035.png",
+    "Pasted image 20260305132029.png",
+    "Pasted image 20260305132022.png",
+    "Pasted image 20260305132015.png",
+    "services/hybrid-env/Transfer Family - Arch.md",
+    "Pasted image 20260305131709.png",
+    "Pasted image 20260305131658.png",
+    "services/hybrid-env/aws-datasync.md",
+    "Pasted image 20260305131559.png",
+    "Pasted image 20260305131147.png",
+    "services/core/iam/aws-directory-service.md",
+    "Pasted image 20260305114025.png",
+    "services/core/storage/storage-gw-volume.md",
+    "services/core/storage/storage-gw-file.md",
+    "services/core/storage/storage-gw-tape.md",
+    "services/core/serverless/architecture.md",
+    "services/core/iac/cloudformation.md",
+    "templates/Note template.md",
+    "meta/Account creation.md",
+    "meta/AWS CLI.md",
+    "services/core/integration/aws-mq.md",
+    "services/core/integration/aws-glue.md",
+    "services/core/integration/aws-appflow.md",
+    "meta",
+    "services/core/integration",
+    "assets",
+    "certs/01_SAA-C03/Disaster Recovery (DR).md",
+    "certs/01_SAA-C03/DNS.md",
+    "certs/01_SAA-C03/EC2 vs ECS (EC2mode) vs Fargate.md",
+    "certs/01_SAA-C03/Fault Tolerance (FT).md",
+    "certs/01_SAA-C03/Service Control Policies.md",
+    "certs/01_SAA-C03/ASSOCIATESHARED Storage Refresher.md",
+    "certs/01_SAA-C03/Elastic Compute Cloud (EC2) Basics/Virtualization 101.md",
+    "certs/01_SAA-C03/Elastic Compute Cloud (EC2) Basics/Trade off Instance store vs EBS.md",
+    "Untitled.base",
     "services/core/iac",
     "services/core/security/aws-certificate-manager.md",
-    "services/core/iac/cloudformation.md",
     "services/core/security/aws-waf.md",
-    "Pasted image 20260218142006.png",
-    "services/core/security/l7-firewalls.md",
-    "services/core/security/aws-secret-manager.md",
-    "services/hybrid-env/site-to-site-vpns.md",
-    "00_Learning Plan.md",
     "services/hybrid-env",
-    "services/core/ha/gwlb.md",
-    "services/core/ha/ssl-offload&session-stickiness.md",
-    "services/core/ha/asg-healthchecks.md",
-    "services/core/ha/asg-lifecycle.md",
-    "services/core/ha/asg-scaling-policies.md",
-    "services/core/ha/asg.md",
-    "services/core/compute/ec-lc-&-lt.md",
-    "services/core/ha/elb-alb-vs-nlb.md",
-    "services/core/ha/elb-architecture.md",
-    "services/core/ha/elb-evolution.md",
-    "services/core/ha/regional-global-architecture.md",
     "services/core/ha",
-    "services/core/dns/route-53-hosted-zone.md",
-    "services/core/dns/r53-weigthed-routing.md",
-    "services/core/dns/r53-simple-routing.md",
-    "services/core/dns/r53-failover-routing.md",
-    "services/core/dns/r53-dnssec.md",
-    "services/core/dns/r53-interoperability.md",
-    "services/core/dns/r53-geoproximity-routing.md",
     "services/core/dns",
     "services/core/cdn",
-    "services/core/serverless",
-    "services/core/database",
-    "General Knowledge",
-    "services/core/configuration",
-    "certs/01_SAA-C03/Elastic Compute Cloud (EC2) Basics"
+    "services/core/serverless"
   ]
 }
