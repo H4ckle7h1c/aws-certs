@@ -8,4 +8,4 @@
 - Translate= Amazon Translate is a neural machine translation service that delivers fast, high-quality, affordable, and customizable language translation.
 - Forecast: Amazon Forecast is a fully managed service that uses statistical and machine learning algorithms to deliver highly accurate time-series forecasts.
 - Fraud detector: Amazon Fraud Detector is a fully managed fraud detection service that automates the detection of potentially fraudulent activities online. These activities include unauthorized transactions and the creation of fake accounts. Amazon Fraud Detector works by using machine learning to analyze your data.
-- Sage Maker
+- Sage Maker: Amazon SageMaker is a fully managed machine learning service. With SageMaker, data scientists and developers can quickly and easily build and train machine learning models, and then directly deploy them into a production-ready hosted environment.

@@ -1,1 +1,0 @@
-Definition : Feature to restrict AWS account
